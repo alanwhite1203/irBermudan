@@ -98,7 +98,11 @@ Call	1/10/2018	1/14/2018
 
 
 
-Reference:
-https://finpricing.com/knowledge.html
+References:
+
+https://finpricing.com/lib/EqWarrant.html
+
+https://bitbucket.org/cmrm11/irbermudan/downloads/IrBermudan-28.pdf
+
 
 
